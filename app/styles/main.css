@@ -1,29 +1,15 @@
-.browserupgrade {
-  margin: 0.2em 0;
-  background: #ccc;
-  color: #000;
-  padding: 0.2em 0;
+body{
+  margin:0;
 }
-
-body {
-  background: #fafafa;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #333;
+#ourStory{
+  background-image:url('../images/4.jpg');
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  height:100vh;
+  opacity:.75;
 }
-
-.hero-unit {
-  margin: 50px auto 0 auto;
-  width: 300px;
-  font-size: 18px;
-  font-weight: 200;
-  line-height: 30px;
-  background-color: #eee;
-  border-radius: 6px;
-  padding: 60px;
-}
-
-.hero-unit h1 {
-  font-size: 60px;
-  line-height: 1;
-  letter-spacing: -1px;
+img{
+  width:400px;
+  height:300px;
 }
